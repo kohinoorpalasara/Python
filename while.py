@@ -4,3 +4,8 @@ while True:
         break
     print(string)
 print('Done!')
+
+x = 1
+Y = 1
+Z = X + Y
+print(Z)
