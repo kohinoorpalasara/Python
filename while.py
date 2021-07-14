@@ -5,7 +5,8 @@ while True:
     print(string)
 print('Done!')
 
-x = 1
+X = 1
 Y = 1
 Z = X + Y
 print(Z)
+
